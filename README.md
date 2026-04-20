@@ -129,6 +129,10 @@ Tugas Modul 6/
 ---
 
 ## 👨‍💻 Developer
+  
+**Kelompok 22 – Studi Independen PT VINIX7 AURUM**  
+
+💼 Divisi: Web Development & UI/UX  
 
 **Miftachul Rizqi**  
 Mahasiswa D4 Manajemen Informatika  
