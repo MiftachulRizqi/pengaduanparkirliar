@@ -69,7 +69,7 @@ Tugas Modul 6/
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/MiftachulRizqi/Tugas-Modul-6_Kelompok-22.git
+   git clone https://github.com/MiftachulRizqi/pengaduan-parkir-liar.git 
    ```
 
 2. Masuk ke folder project:
