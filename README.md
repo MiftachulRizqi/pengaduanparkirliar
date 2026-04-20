@@ -1,7 +1,7 @@
 # 🚗 Pengaduan Parkir Liar
 
 Website ini merupakan platform berbasis web yang memungkinkan masyarakat untuk melaporkan kejadian parkir liar secara cepat, mudah, dan transparan.  
-Proyek ini dibuat sebagai bagian dari **Tugas Modul 6**.
+Proyek ini dibuat sebagai bagian dari **Tugas Studi Independen yang dilakukan di PT VINIX7 AURUM**.
 
 > ⚠️ **Catatan:** Saat ini project masih dalam tahap pengembangan dan baru menyediakan tampilan **landing page (frontend saja)**.
 
