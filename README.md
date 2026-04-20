@@ -69,22 +69,43 @@ Tugas Modul 6/
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/MiftachulRizqi/pengaduan-parkir-liar.git 
+   git clone https://github.com/MiftachulRizqi/pengaduanparkirliar.git
    ```
 
 2. Masuk ke folder project:
    ```bash
-   cd Tugas Modul 6
+   cd pengaduanparkirliar
    ```
 
-3. Jalankan file:
-   ```
-   index.html
+3. Buka project:
+
+   **Opsi 1 (Recommended - Visual Studio Code):**
+   ```bash
+   code .
    ```
 
-4. Buka di browser (Chrome / Edge)
+   **Opsi 2 (Manual):**
+   - Buka Visual Studio Code  
+   - Klik **File → Open Folder**  
+   - Pilih folder `pengaduanparkirliar`  
 
 ---
+
+### 🌐 Jalankan di Browser (Cara Paling Mudah)
+- Double-click file `index.html`  
+- Website akan langsung terbuka di browser  
+
+---
+
+### ⚡ Dengan Live Server (Direkomendasikan untuk Development)
+
+1. Buka VS Code  
+2. Masuk ke **Extensions** (`Ctrl + Shift + X`)  
+3. Cari **Live Server** → Install  
+4. Klik kanan `index.html`  
+5. Pilih **Open with Live Server**
+
+✅ Browser akan otomatis refresh saat ada perubahan
 
 ## 🎯 Tujuan Project
 
